@@ -1,0 +1,10 @@
+{
+  "name": "livesensordata-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Web Apps API that returns recent DHT11 readings from Blob Storage",
+  "main": "src/functions/*.js",
+  "dependencies": {
+    "@azure/functions": "4.16.5"
+  }
+}

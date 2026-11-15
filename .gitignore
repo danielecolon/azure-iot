@@ -1,0 +1,9 @@
+# Device secrets written by demos/demo-dht/deploy.sh
+device-connection-string.txt
+
+# Node dependencies and SWA CLI files (demos/poc-livesensordata)
+node_modules/
+.swa/
+
+# Claude settings
+.claude/

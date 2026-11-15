@@ -1,0 +1,6 @@
+# Keep shell and Python scripts with Unix line endings, even on Windows checkouts,
+# so bash on Linux/WSL/Raspberry Pi can run them.
+*.sh text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.json text eol=lf
